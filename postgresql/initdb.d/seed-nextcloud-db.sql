@@ -1,0 +1,3 @@
+CREATE DATABASE nextcloud OWNER admin;
+
+GRANT ALL PRIVILEGES ON DATABASE nextcloud TO admin;

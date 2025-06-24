@@ -1,0 +1,3 @@
+CREATE DATABASE joplin OWNER admin;
+
+GRANT ALL PRIVILEGES ON DATABASE joplin TO admin;
